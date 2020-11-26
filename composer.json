@@ -1,0 +1,14 @@
+{
+    "name": "randry/madava-test",
+    "description": "madava test plugin",
+    "authors": [
+        {
+            "name": "san randry",
+            "email": "sinrandry@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
